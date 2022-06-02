@@ -1,0 +1,10 @@
+Bug report structure:
+	Bug_ID
+	Title
+	Severety
+	Priority
+	Enviroment
+	Precondition
+	Step to reproduce
+	Actual result
+	Expected result
